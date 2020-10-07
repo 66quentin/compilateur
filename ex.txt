@@ -1,0 +1,16 @@
+# Structure generale d’un algorithme
+Algorithme test
+	Role: tester le compilateur
+	Debut
+		a = 3 * 2 + 2
+		b = a + 2
+		c = 5
+		lire(a,b,c)
+		si a <= 3 alors
+			b = 6
+		sinon
+			b=2
+		fsi
+		c=cos(3)
+		afficher(c)
+	Fin

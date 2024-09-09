@@ -1,4 +1,4 @@
-Compilateur réalisé par Quentin Guardia (qguardia66@gmail.com) grâce aux technologies Yacc et Flex.
+Compilateur réalisé par Quentin Guardia (quentin.guardia@protonmail.com) grâce aux technologies Yacc et Flex.
 
 Compilation de pseudo code vers le langage C.
 
